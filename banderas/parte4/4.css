@@ -1,0 +1,19 @@
+body{
+  margin: 0;
+  padding: 0;
+  width: 100%
+}
+p{
+  height: 100px;
+  font-size: 20px;
+  display: inline;
+  padding: 10px;
+  margin: 5px;
+}
+.colorlab{
+  background-color:#f9a91a;
+}
+.grey{
+  background-color: #333;
+  color: white;
+}
